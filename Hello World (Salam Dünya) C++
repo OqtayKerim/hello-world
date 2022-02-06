@@ -2,6 +2,6 @@
 using namespace std;
 int main()
 {
-cout<<"Merhaba dünya!\n";
+cout<<"Salam Dünya!\n";
 return 0;
 }
